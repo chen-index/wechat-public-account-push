@@ -131,24 +131,24 @@ const USER_CONFIG = {
         // {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-    // {
-    //   name: "小晴",
-    //   id: "oAJi46CHwjMiZ5u77V7ZOVSM-EJU",
-    //   useTemplateId: "mwRV9oA3kkoYwrMoGk7I_tGLT4ATM-zA6HfvHRWcbA4",
-    //   province: "广东",
-    //   city: "东莞",
-    //   horoscopeDate: '10-16',
-    //   horoscopeDateType: '今日',
-    //   openUrl: "https://h5.cohao.top/",
-    //   festivals: [
-    //     {"type": "*生日", "name": "大哥", "year": "2003", "date": "10-16"},
-    //     {"type": "*生日", "name": "二弟", "year": "1998", "date": "10-26"},
-    //   ],
-    //   customizedDateList: [
-    //     {"keyword": "love_day", date: "2022-03-12"},
-    //     {"keyword": "marry_day", date: "2022-07-03"},
-    //   ]
-    // },
+    {
+      name: "小晴",
+      id: "oAJi46CHwjMiZ5u77V7ZOVSM-EJU",
+      useTemplateId: "mwRV9oA3kkoYwrMoGk7I_tGLT4ATM-zA6HfvHRWcbA4",
+      province: "广东",
+      city: "广州",
+      horoscopeDate: '10-16',
+      horoscopeDateType: '今日',
+      openUrl: "https://h5.cohao.top/",
+      festivals: [
+        {"type": "*生日", "name": "大哥", "year": "2003", "date": "10-16"},
+        {"type": "*生日", "name": "二弟", "year": "1998", "date": "10-26"},
+      ],
+      customizedDateList: [
+        {"keyword": "love_day", date: "2022-03-12"},
+        {"keyword": "marry_day", date: "2022-07-03"},
+      ]
+    },
     // {
     //   name: "",
     //   id: "",
