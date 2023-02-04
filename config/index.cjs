@@ -126,7 +126,7 @@ const USER_CONFIG = {
         // 在一起的日子
         {"keyword": "love_day", date: "2022-03-12"},
         // 异地
-        {"keyword": "marry_day", date: "2022-07-03"},
+        {"keyword": "marry_day", date: "2023-02-02"},
         // 退伍日
         // {"keyword": "ex_day", date: "2022-09-10"},
       ]
