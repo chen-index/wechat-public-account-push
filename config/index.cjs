@@ -100,7 +100,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oAJi46BYQIIYi8GC0zurI56gmCQw",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "mwRV9oA3kkoYwrMoGk7I_tGLT4ATM-zA6HfvHRWcbA4",
+      useTemplateId: "xBf0iGFUqFMM8aOfgskhSzz8s_9zVp-JP-03gQf_dgI",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -134,7 +134,7 @@ const USER_CONFIG = {
     {
       name: "小晴",
       id: "oAJi46CHwjMiZ5u77V7ZOVSM-EJU",
-      useTemplateId: "mwRV9oA3kkoYwrMoGk7I_tGLT4ATM-zA6HfvHRWcbA4",
+      useTemplateId: "xBf0iGFUqFMM8aOfgskhSzz8s_9zVp-JP-03gQf_dgI",
       province: "广东",
       city: "广州",
       horoscopeDate: '10-16',
@@ -146,7 +146,8 @@ const USER_CONFIG = {
       ],
       customizedDateList: [
         {"keyword": "love_day", date: "2022-03-12"},
-        {"keyword": "marry_day", date: "2022-07-03"},
+        // 异地开始{"keyword": "marry_day", date: "2022-07-03"},
+        {"keyword": "marry_day", date: "2023-02-02"}, // 结束异地
       ]
     },
     // {
